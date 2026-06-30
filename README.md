@@ -1,4 +1,4 @@
-# CLOUD NOTES 
+# CLOUD 101 NOTES 
 All notes taken from aws educate 
 ---
 ## WHAT IS CLOUD COMPUTING?
